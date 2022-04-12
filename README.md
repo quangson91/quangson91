@@ -2,6 +2,6 @@
 
 Hi, I'm QuangSon, a programmer and open-source lover.
 
-- :hammer_and_pick: Building open-source application [intellij_rest_cli](https://github.com/quangson91/intellij_rest_cli).
-- :pushpin: Interests: Android, Kotlin, Flutter, GraalVM.
+- :hammer_and_pick: Building open-source application [restcli](https://github.com/restcli/restcli).
+- :pushpin: Interests: Android, Kotlin, Flutter, Next.js
 
